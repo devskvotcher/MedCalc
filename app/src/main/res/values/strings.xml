@@ -10,4 +10,31 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string-array name="groups">
+        <item>Открытие глаз (EYES)</item>
+        <item>Вербальный ответ(VERBAL)</item>
+        <item>Лучший двигательный ответ(MOTOR)</item>
+    </string-array>
+
+    <string-array name="eyes">
+        <item>открытие до стимуляции</item>
+        <item>после словестной просьбы или отклика</item>
+        <item>после словесной стимуляции</item>
+        <item>нет открытия, при отсутстствии препятствующего фактора</item>
+    </string-array>
+    <string-array name="verbals">
+        <item>Правильно называет имя, место и дату</item>
+        <item>дезориентирован, но речь связная</item>
+        <item>членораздельные слова</item>
+        <item>только стоны или неразборчивые звуки</item>
+        <item>нет ответа, при отсутствии препятствующего фактора</item>
+    </string-array>
+    <string-array name="motors">
+    <item>Выполняет сложные команды(состоящие из двух частей)</item>
+    <item>поднимает руку над ключицей(при стимуляции головы и шеи</item>
+    <item>одергивает руку, при болевом раздражении</item>
+    <item>сгибание руки в ответ на боль</item>
+    <item>разгибает руку в локте</item>
+    <item>нет движения в плечах/ногах, нет мешающего фактора</item>
+    </string-array>
 </resources>
