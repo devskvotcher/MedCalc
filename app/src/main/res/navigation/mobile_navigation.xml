@@ -22,4 +22,9 @@
         android:name="com.example.medcalc.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_scales"
+        android:name="com.example.medcalc.ui.scales.ScalesFragment"
+        android:label="Scales"
+        tools:layout="@layout/fragment_scales" />
 </navigation>
